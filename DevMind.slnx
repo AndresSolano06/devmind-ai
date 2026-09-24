@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DevMind.Api/DevMind.Api.csproj" />
+    <Project Path="src/DevMind.Application/DevMind.Application.csproj" />
+    <Project Path="src/DevMind.Domain/DevMind.Domain.csproj" />
+    <Project Path="src/DevMind.Infrastructure/DevMind.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DevMind.Tests/DevMind.Tests.csproj" />
+  </Folder>
+</Solution>
