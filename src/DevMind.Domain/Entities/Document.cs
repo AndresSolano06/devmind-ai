@@ -1,3 +1,5 @@
+namespace DevMind.Domain.Entities;
+
 public class Document
 {
     public Guid Id { get; private set; }

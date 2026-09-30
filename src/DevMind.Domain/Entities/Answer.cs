@@ -1,4 +1,5 @@
-﻿public class Answer
+﻿namespace DevMind.Domain.Entities;
+public class Answer
 {
     public Guid Id { get; private set; }
     public Guid QuestionId { get; private set; }

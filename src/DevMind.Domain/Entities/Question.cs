@@ -1,4 +1,5 @@
-﻿public class Question
+﻿namespace DevMind.Domain.Entities;
+public class Question
 {
     public Guid Id { get; private set; }
     public string Text { get; private set; } = string.Empty;
